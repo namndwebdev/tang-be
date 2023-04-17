@@ -1,6 +1,6 @@
 
-var to = 'Mẹ!';
-var gift_url = 'https://www.facebook.com/nam.nodemy/';
+var to = 'Em!';
+var gift_url = '#';
 var gift_image_url = 'hot-girl.png';
 
 
